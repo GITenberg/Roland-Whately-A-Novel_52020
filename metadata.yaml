@@ -1,5 +1,8 @@
 _repo: Roland-Whately-A-Novel_52020
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52020-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Waugh, Alec
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8306
     wikipedia: http://en.wikipedia.org/wiki/Alec_Waugh
 description: 'Also published as "The Lonely Unicorn," #43952.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52020#Roland-Whately-A-Novel
 gutenberg_issued: '2016-05-07'
 gutenberg_type: Text
 identifiers:
