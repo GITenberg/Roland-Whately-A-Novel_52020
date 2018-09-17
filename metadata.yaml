@@ -1,0 +1,31 @@
+_repo: Roland-Whately-A-Novel_52020
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waugh, Alec
+    alias: Waugh, Alexander Raban
+    birthdate: 1898
+    deathdate: 1981
+    gutenberg_agent_id: '8306'
+    url: http://www.gutenberg.org/2009/agents/8306
+    wikipedia: http://en.wikipedia.org/wiki/Alec_Waugh
+description: 'Also published as "The Lonely Unicorn," #43952.'
+gutenberg_issued: '2016-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Businessmen -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Boarding schools -- England -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Bildungsromans'
+- GITenberg
+title: 'Roland Whately: A Novel'
+url: http://www.gutenberg.org/ebooks/52020
